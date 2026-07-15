@@ -1,0 +1,23 @@
+{
+  "name": "qiutian/elemesdk",
+  "description": "饿了么对接SDK优化版，支持最新的PHP版本，支持最新的API版本",
+  "license": "MIT",
+  "keywords": [
+    "eleme"
+  ],
+  "version": "1.88.0",
+  "authors": [
+    {
+      "name": "qiutian",
+      "email": "qiutianxiaxue@hotmail.com"
+    }
+  ],
+  "require": {
+      "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ElemeOpenApi\\": "src/ElemeOpenApi"
+    }
+  }
+}
