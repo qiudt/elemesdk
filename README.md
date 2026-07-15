@@ -15,7 +15,7 @@
 
 #### 安装命令(20220605 变更)
 ```php
-    composer require qiutian/elemesdk
+    composer require qiudt/elemesdk
 ```
 
 ### 基本用法
