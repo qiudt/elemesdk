@@ -1,5 +1,5 @@
 {
-  "name": "qiutian/elemesdk",
+  "name": "qiudt/elemesdk",
   "description": "饿了么对接SDK优化版，支持最新的PHP版本，支持最新的API版本",
   "license": "MIT",
   "keywords": [
@@ -8,8 +8,8 @@
   "version": "1.88.0",
   "authors": [
     {
-      "name": "qiutian",
-      "email": "qiutianxiaxue@hotmail.com"
+      "name": "qiu",
+      "email": "qiudeteng@qq.com"
     }
   ],
   "require": {
